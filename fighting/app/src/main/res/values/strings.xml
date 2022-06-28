@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">考研便签</string>
+    <string name="sign_in_succrss">登录成功，好运加持!</string>
+    <string name="sign_in_wrong">密码错啦，再接再厉！</string>
+    <string name="countdown">百尺竿头更进一步！</string>
+    <string name="www">信息是决策的前提！</string>
+</resources>

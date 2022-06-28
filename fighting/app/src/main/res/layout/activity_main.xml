@@ -1,0 +1,32 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="加油，考研人！"
+        android:textSize="24sp"
+        android:gravity="center"/>
+    <ImageView
+        android:id="@+id/img_"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/i_am_the_best"
+        />
+    <Button
+        android:id="@+id/main_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#00ffffff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="24sp"
+        android:text="点击进入-->"/>
+
+
+</RelativeLayout>
